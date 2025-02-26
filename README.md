@@ -1,4 +1,4 @@
-# 💻 Segundo trabalho como Freelancer para a empreza Íonz - Julia Martins
+# 💻 Segundo trabalho como Freelancer para a empresa Íonz - Julia Martins
 
 # 📚 Seções
 O site é composto por 5 seções:
